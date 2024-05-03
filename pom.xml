@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.truvideo.sdk</groupId>
   <artifactId>core</artifactId>
-  <version>0.2.4-rc-rc-rc-rc</version>
+  <version>0.2.4-rc</version>
   <packaging>pom</packaging>
   <dependencies>
     <dependency>
