@@ -1,0 +1,1 @@
+Truvideo SDK Android Core Module
