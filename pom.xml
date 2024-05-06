@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.truvideo.sdk</groupId>
   <artifactId>core</artifactId>
-  <version>0.2.5-beta.33</version>
+  <version>0.66.1-rc.36</version>
   <packaging>pom</packaging>
   <dependencies>
     <dependency>
@@ -27,9 +27,9 @@
       <version>2.16.6</version>
     </dependency>
     <dependency>
-      <groupId>com.github.Truvideo</groupId>
+      <groupId>com.github.truvideo</groupId>
       <artifactId>truvideo-sdk-android-common</artifactId>
-      <version>0.0.64</version>
+      <version>0.0.66</version>
     </dependency>
     <dependency>
       <groupId>org.jetbrains.kotlinx</groupId>
