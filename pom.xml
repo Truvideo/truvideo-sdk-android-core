@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.truvideo.sdk</groupId>
-  <artifactId>core</artifactId>
-  <version>70.1.1-beta.45</version>
+  <groupId>com.github.Truvideo</groupId>
+  <artifactId>truvideo-sdk-android-core</artifactId>
+  <version>70.1.1-beta.46</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
