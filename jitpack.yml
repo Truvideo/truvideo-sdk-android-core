@@ -1,2 +1,2 @@
 install:
-  - mvn install:install-file -Dfile=core.aar -DpomFile=pom.xml -Dpackaging=aar
+  - mvn install:install-file -Dfile=core.aar -DpomFile=pom.xml
