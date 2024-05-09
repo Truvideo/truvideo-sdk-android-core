@@ -3,5 +3,6 @@ install:
 - mvn install:install-file 
   -Dpackaging=aar
   -Dfile=core.aar  
+  -DpomFile=pom.xml
   -DgeneratePom=true
 
