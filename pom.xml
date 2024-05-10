@@ -3,8 +3,8 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.Truvideo</groupId>
   <artifactId>truvideo-sdk-android-core</artifactId>
-  <version>70.1.1-beta.66</version>
-  <packaging>pom</packaging>
+  <version>70.1.1-beta.67</version>
+  
   <dependencies>
     <dependency>
       <groupId>androidx.startup</groupId>
