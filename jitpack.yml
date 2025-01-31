@@ -1,7 +1,2 @@
-
-install:
-- mvn install:install-file 
-  -Dpackaging=aar
-  -Dfile=core.aar
-  -DpomFile=pom.xml  
-
+jdk:
+  - openjdk17
